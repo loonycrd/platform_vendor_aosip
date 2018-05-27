@@ -10,6 +10,12 @@ PRODUCT_PACKAGES += \
     WeatherClient \
     Updater
 
+# Jelly browser
+ifeq ($(TARGET_USE_JELLY),true)
+PRODUCT_PACKAGES += \
+    Jelly
+endif
+
 # Fonts
 PRODUCT_PACKAGES += \
     AOSIPFonts
