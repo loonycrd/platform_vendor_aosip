@@ -32,6 +32,11 @@ ifeq ($(HOST_OS),linux)
     endif
 endif
 
+# GAPPS
+ifeq ($(INCLUDE_GAPPS),true)
+include vendor/gapps/config.mk
+endif
+
 # LatinIME gesture typing
 ifeq ($(TARGET_ARCH),arm64)
 PRODUCT_COPY_FILES += \
