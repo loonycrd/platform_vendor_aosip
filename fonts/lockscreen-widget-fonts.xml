@@ -1,0 +1,90 @@
+    <family name="roboto">
+        <font weight="400" style="normal">Default-Regular.ttf</font>
+        <font weight="500" style="normal">Default-Medium.ttf</font>
+        <font weight="700" style="normal">Default-Bold.ttf</font>
+    </family>
+
+    <alias name="roboto-medium" to="roboto" weight="500" />
+
+    <family name="roboto-condensed">
+        <font weight="400" style="normal">DefaultCondensed-Regular.ttf</font>
+        <font weight="700" style="normal">DefaultCondensed-Bold.ttf</font>
+    </family>
+
+    <family name="gsans">
+        <font weight="400" style="normal">GSans-Regular.ttf</font>
+        <font weight="500" style="normal">GSans-Medium.ttf</font>
+        <font weight="700" style="normal">GSans-Bold.ttf</font>
+    </family>
+
+    <alias name="gsans-medium" to="gsans" weight="500" />
+
+    <family name="gsans-condensed">
+        <font weight="400" style="normal">GSansCondensed-Regular.ttf</font>
+        <font weight="700" style="normal">GSansCondensed-Bold.ttf</font>
+    </family>
+
+    <family name="fira-sans">
+        <font weight="400" style="normal">Fira-Regular.ttf</font>
+        <font weight="500" style="normal">Fira-Medium.ttf</font>
+        <font weight="700" style="normal">Fira-Bold.ttf</font>
+    </family>
+
+    <alias name="fira-sans-medium" to="fira-sans" weight="500" />
+
+    <family name="fira-sans-condensed">
+        <font weight="400" style="normal">FiraCondensed-Regular.ttf</font>
+        <font weight="500" style="normal">FiraCondensed-Medium.ttf</font>
+        <font weight="700" style="normal">FiraCondensed-Bold.ttf</font>
+    </family>
+
+    <alias name="fira-sans-condensed-medium" to="fira-sans-condensed" weight="500" />
+
+    <family name="sam-one">
+        <font weight="400" style="normal">SamOne-Regular.ttf</font>
+        <font weight="600" style="normal">SamOne-Medium.ttf</font>
+        <font weight="700" style="normal">SamOne-Bold.ttf</font>
+    </family>
+
+    <alias name="sam-one-medium" to="sam-one" weight="600" />
+
+    <family name="sf-pro">
+        <font weight="400" style="normal">SF-Regular.otf</font>
+        <font weight="500" style="normal">SF-Medium.otf</font>
+        <font weight="700" style="normal">SF-Bold.otf</font>
+    </family>
+
+    <alias name="sf-pro-medium" to="sf-pro" weight="500" />
+
+    <family name="sf-pro-condensed">
+        <font weight="400" style="normal">SF-CondensedRegular.otf</font>
+        <font weight="500" style="normal">SF-CondensedMedium.otf</font>
+        <font weight="700" style="normal">SF-CondensedBold.otf</font>
+    </family>
+
+    <alias name="sf-pro-condensed-medium" to="sf-pro-condensed" weight="500" />
+
+    <family name="slate">
+        <font weight="400" style="normal">Slate-Regular.ttf</font>
+        <font weight="500" style="normal">Slate-Medium.ttf</font>
+        <font weight="700" style="normal">Slate-Bold.ttf</font>
+    </family>
+
+    <alias name="slate-medium" to="slate" weight="500" />
+
+    <family name="slate-condensed">
+        <font weight="400" style="normal">SlateCondensed-Regular.ttf</font>
+        <font weight="700" style="normal">SlateCondensed-Bold.ttf</font>
+    </family>
+
+    <family name="ubuntu">
+        <font weight="400" style="normal">Ubuntu-Regular.ttf</font>
+        <font weight="500" style="normal">Ubuntu-Medium.ttf</font>
+        <font weight="700" style="normal">Ubuntu-Bold.ttf</font>
+    </family>
+
+    <alias name="ubuntu-medium" to="ubuntu" weight="500" />
+
+    <family name="ubuntu-condensed">
+        <font weight="400" style="normal">UbuntuCondensed-Regular.ttf</font>
+    </family>
