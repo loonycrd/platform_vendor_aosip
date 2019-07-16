@@ -1,3 +1,15 @@
+# QS tile styles
+PRODUCT_PACKAGES += \
+	QSTileSquircle \
+	QSTileTearDrop \
+	QSTileCircleDual \
+	QSTileInkdrop \
+	QSTileIconAccent \
+	QSTileShishuNights \
+	QSTileAttemptMountain \
+	QSTileDottedCircle \
+	QSTileShishuInk
+
 # Themes
 PRODUCT_PACKAGES += \
     GBoardDark \
