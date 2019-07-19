@@ -11,9 +11,9 @@ PRODUCT_COPY_FILES += \
     vendor/aosip/fonts/FiraCondensed-Bold.ttf:system/fonts/FiraCondensed-Bold.ttf \
     vendor/aosip/fonts/FiraCondensed-Medium.ttf:system/fonts/FiraCondensed-Medium.ttf \
     vendor/aosip/fonts/FiraCondensed-Regular.ttf:system/fonts/FiraCondensed-Regular.ttf \
-    vendor/aosip/fonts/GSans-Regular.ttf:system/fonts/GSans-Bold.ttf \
+    vendor/aosip/fonts/GSans-Bold.ttf:system/fonts/GSans-Bold.ttf \
     vendor/aosip/fonts/GSans-Medium.ttf:system/fonts/GSans-Medium.ttf \
-    vendor/aosip/fonts/GSans-Bold.ttf:system/fonts/GSans-Regular.ttf \
+    vendor/aosip/fonts/GSans-Regular.ttf:system/fonts/GSans-Regular.ttf \
     vendor/aosip/fonts/GSansCondensed-Bold.ttf:system/fonts/GSansCondensed-Bold.ttf \
     vendor/aosip/fonts/GSansCondensed-Regular.ttf:system/fonts/GSansCondensed-Regular.ttf \
     vendor/aosip/fonts/SamOne-Bold.ttf:system/fonts/SamOne-Bold.ttf \
