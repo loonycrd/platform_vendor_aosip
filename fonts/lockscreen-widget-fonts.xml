@@ -43,6 +43,10 @@
     </family>
     <alias name="sam-one-medium" to="sam-one" weight="600" />
 
+    <family name="sam-one-condensed">
+        <font weight="400" style="normal">SamOneCondensed-Regular.ttf</font>
+    </family>
+
     <family name="sf-pro">
         <font weight="400" style="normal">SF-Regular.otf</font>
         <font weight="500" style="normal">SF-Medium.otf</font>
