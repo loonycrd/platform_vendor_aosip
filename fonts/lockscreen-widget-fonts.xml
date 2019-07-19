@@ -55,9 +55,9 @@
     <alias name="sf-pro-medium" to="sf-pro" weight="500" />
 
     <family name="sf-pro-condensed">
-        <font weight="400" style="normal">SF-CondensedRegular.otf</font>
-        <font weight="500" style="normal">SF-CondensedMedium.otf</font>
-        <font weight="700" style="normal">SF-CondensedBold.otf</font>
+        <font weight="400" style="normal">SFCondensed-Regular.otf</font>
+        <font weight="500" style="normal">SFCondensed-Medium.otf</font>
+        <font weight="700" style="normal">SFCondensed-Bold.otf</font>
     </family>
     <alias name="sf-pro-condensed-medium" to="sf-pro-condensed" weight="500" />
 

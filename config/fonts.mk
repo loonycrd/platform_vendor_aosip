@@ -22,9 +22,9 @@ PRODUCT_COPY_FILES += \
     vendor/aosip/fonts/SF-Bold.otf:system/fonts/SF-Bold.otf \
     vendor/aosip/fonts/SF-Medium.otf:system/fonts/SF-Medium.otf \
     vendor/aosip/fonts/SF-Regular.otf:system/fonts/SF-Regular.otf \
-    vendor/aosip/fonts/SF-CondensedBold.otf:system/fonts/SF-CondensedBold.otf \
-    vendor/aosip/fonts/SF-CondensedMedium.otf:system/fonts/SF-CondensedMedium.otf \
-    vendor/aosip/fonts/SF-CondensedRegular.otf:system/fonts/SF-CondensedRegular.otf \
+    vendor/aosip/fonts/SFCondensed-Bold.otf:system/fonts/SFCondensed-Bold.otf \
+    vendor/aosip/fonts/SFCondensed-Medium.otf:system/fonts/SFCondensed-Medium.otf \
+    vendor/aosip/fonts/SFCondensed-Regular.otf:system/fonts/SFCondensed-Regular.otf \
     vendor/aosip/fonts/Slate-Bold.ttf:system/fonts/Slate-Bold.ttf \
     vendor/aosip/fonts/Slate-Medium.ttf:system/fonts/Slate-Medium.ttf \
     vendor/aosip/fonts/Slate-Regular.ttf:system/fonts/Slate-Regular.ttf \
