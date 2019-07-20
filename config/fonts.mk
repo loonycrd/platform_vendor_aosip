@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/aosip/fonts/SamOne-Bold.ttf:system/fonts/SamOne-Bold.ttf \
     vendor/aosip/fonts/SamOne-Medium.ttf:system/fonts/SamOne-Medium.ttf \
     vendor/aosip/fonts/SamOne-Regular.ttf:system/fonts/SamOne-Regular.ttf \
+    vendor/aosip/fonts/SamOneCondensed-Regular.ttf:system/fonts/SamOneCondensed-Regular.ttf \
     vendor/aosip/fonts/SF-Bold.otf:system/fonts/SF-Bold.otf \
     vendor/aosip/fonts/SF-Medium.otf:system/fonts/SF-Medium.otf \
     vendor/aosip/fonts/SF-Regular.otf:system/fonts/SF-Regular.otf \
