@@ -10,10 +10,10 @@ PRODUCT_PACKAGES += \
     WeatherClient \
     Updater
 
-# Jelly browser
-ifeq ($(TARGET_USE_JELLY),true)
+# Via browser
+ifeq ($(TARGET_USE_VIA),true)
 PRODUCT_PACKAGES += \
-    Jelly
+    ViaBrowser
 endif
 
 # Fonts
