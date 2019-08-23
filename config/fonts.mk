@@ -20,12 +20,11 @@ PRODUCT_COPY_FILES += \
     vendor/aosip/fonts/SamOne-Medium.ttf:system/fonts/SamOne-Medium.ttf \
     vendor/aosip/fonts/SamOne-Regular.ttf:system/fonts/SamOne-Regular.ttf \
     vendor/aosip/fonts/SamOneCondensed-Regular.ttf:system/fonts/SamOneCondensed-Regular.ttf \
-    vendor/aosip/fonts/SF-Bold.otf:system/fonts/SF-Bold.otf \
-    vendor/aosip/fonts/SF-Medium.otf:system/fonts/SF-Medium.otf \
-    vendor/aosip/fonts/SF-Regular.otf:system/fonts/SF-Regular.otf \
-    vendor/aosip/fonts/SFCondensed-Bold.otf:system/fonts/SFCondensed-Bold.otf \
-    vendor/aosip/fonts/SFCondensed-Medium.otf:system/fonts/SFCondensed-Medium.otf \
-    vendor/aosip/fonts/SFCondensed-Regular.otf:system/fonts/SFCondensed-Regular.otf \
+    vendor/aosip/fonts/SF-Bold.ttf:system/fonts/SF-Bold.ttf \
+    vendor/aosip/fonts/SF-Medium.ttf:system/fonts/SF-Medium.ttf \
+    vendor/aosip/fonts/SF-Regular.ttf:system/fonts/SF-Regular.ttf \
+    vendor/aosip/fonts/SFCondensed-Bold.ttf:system/fonts/SFCondensed-Bold.ttf \
+    vendor/aosip/fonts/SFCondensed-Regular.ttf:system/fonts/SFCondensed-Regular.ttf \
     vendor/aosip/fonts/Slate-Bold.ttf:system/fonts/Slate-Bold.ttf \
     vendor/aosip/fonts/Slate-Medium.ttf:system/fonts/Slate-Medium.ttf \
     vendor/aosip/fonts/Slate-Regular.ttf:system/fonts/Slate-Regular.ttf \

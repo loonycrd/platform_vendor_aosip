@@ -48,18 +48,16 @@
     </family>
 
     <family name="sf-pro">
-        <font weight="400" style="normal">SF-Regular.otf</font>
-        <font weight="500" style="normal">SF-Medium.otf</font>
-        <font weight="700" style="normal">SF-Bold.otf</font>
+        <font weight="400" style="normal">SF-Regular.ttf</font>
+        <font weight="500" style="normal">SF-Medium.ttf</font>
+        <font weight="700" style="normal">SF-Bold.ttf</font>
     </family>
     <alias name="sf-pro-medium" to="sf-pro" weight="500" />
 
     <family name="sf-pro-condensed">
-        <font weight="400" style="normal">SFCondensed-Regular.otf</font>
-        <font weight="500" style="normal">SFCondensed-Medium.otf</font>
-        <font weight="700" style="normal">SFCondensed-Bold.otf</font>
+        <font weight="400" style="normal">SFCondensed-Regular.ttf</font>
+        <font weight="700" style="normal">SFCondensed-Bold.ttf</font>
     </family>
-    <alias name="sf-pro-condensed-medium" to="sf-pro-condensed" weight="500" />
 
     <family name="slate">
         <font weight="400" style="normal">Slate-Regular.ttf</font>
