@@ -39,6 +39,5 @@ PRODUCT_PACKAGES += \
     OnePlusSwitch \
     StockSwitch \
     Contained \
-    Retro \
     Stockish \
     Narrow
