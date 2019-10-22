@@ -109,9 +109,6 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/aosip/overlay/common
 # Bootanimation
 include vendor/aosip/config/bootanimation.mk
 
-# GSans font
-include vendor/aosip/config/fonts.mk
-
 # Packages
 include vendor/aosip/config/packages.mk
 
